@@ -1,0 +1,4 @@
+conftest.cpp: In function 'int main()':
+conftest.cpp:96:5: error: 'choke' was not declared in this scope
+     choke;
+     ^
